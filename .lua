@@ -16,10 +16,6 @@ if gameId == 2753915549 or gameId == 4442272183 or gameId == 7449423635 then
     -- Blox Fruits
     print("Detectado Blox Fruits, executando GodHub...")
     safeLoad("https://raw.githubusercontent.com/username20338/GodHub/main/GodHub_BloxFruits")
-elseif gameId == 10260193230 then
-    -- Meme Sea
-    print("Detectado Meme Sea, executando GodHub...")
-    safeLoad("https://raw.githubusercontent.com/username20338/GodHub/main/GodHub_MemeSea")
 else
     print("Jogo não reconhecido. Nenhum script foi executado.")
 end
